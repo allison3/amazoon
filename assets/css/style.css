@@ -1,0 +1,97 @@
+
+
+body {
+  margin:0px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+.orangeBack{
+  background-color: #ff9900;
+}
+
+.orangeText{
+  color: #ff9900;
+  text-align: center;
+  font-weight: 300;
+}
+
+.blueText{
+  color: #007aff;
+}
+
+.grayText{
+  color: #ccc;
+  font-size: 11pt;
+}
+
+.blueBack{
+  background-color: #232f3e;
+}
+
+header {
+  height:75px;
+  width:100%;
+  line-height:75px;
+  overflow: auto;
+}
+
+header .logo {
+  float: left;
+}
+
+nav{
+  float:right;
+}
+
+nav .nav-btn {
+  color: white;
+  padding: 10px 15px;
+}
+
+/*.subTitle{
+  border:1px solid black;
+}*/
+
+.item{
+  border-top:1px solid #ccc;
+}
+
+.itemContent {
+  padding:20px;
+}
+
+.title {
+  font-size: 20px;
+  padding-right: 15px;
+}
+
+.offer {
+  padding: 10px 0px;
+}
+
+.price{
+  color: red;
+  font-size: 24px;
+}
+
+.totalCart {
+  border-top: 1px solid #ccc;
+  text-align: right;
+}
+
+footer {
+  height:100px;
+  width:100%;
+  line-height:100px;
+  overflow: auto;
+  text-align: center;
+}
+
+footer .logo img{
+  width: 12%;
+}
+
+main {
+  padding:25px 0px;
+}
